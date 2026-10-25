@@ -34,6 +34,6 @@ This is a follow up to the RP42 project started in 2024 (See: )
 
 ### Keyboard Layouts
 **Traditional**  
-<img width="711" height="958" alt="image" src="https://github.com/user-attachments/assets/57184e8b-0f5c-4810-9862-7d8a7938b5b2" />
+<img width="711" height="958" alt="image" src="https://github.com/user-attachments/assets/57184e8b-0f5c-4810-9862-7d8a7938b5b2" />  
 **Optimized**  
 <img width="710" height="946" alt="image" src="https://github.com/user-attachments/assets/eda065ca-8292-4632-a2e7-0809d5c6123b" />
