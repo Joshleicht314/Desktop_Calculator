@@ -1,7 +1,7 @@
 # Desktop Calculator 
 ## Overview
 The goal of this project is to implement a open source desktop style calculator using mechanical key switches. Specifically, the inital firmware is to target RPN users using the excellent Free42 software.
-This is a follow up to the RP42 project started in 2024 (See: )
+This is a follow up to the RP42 project started in 2024 (See: https://github.com/Jeremy924/rp42-firmware)
 
 ## Project Status
 10/24/2026 : Initial project commits with concept art
