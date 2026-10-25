@@ -14,7 +14,7 @@ This is a follow up to the RP42 project started in 2024 (See: )
 - Must be able to run Free42
 - Must be open source to allow for additional firmware and improvements\
 - Must use USB-C to charge and communicate
-- Must have battery life between charges greater than 7 days
+- Must have battery life between charges greater than 7 days  
 
 - May use replaceable battery (i.e. 18650)
 - May use Bluetooth to communicate with computer
@@ -33,7 +33,7 @@ This is a follow up to the RP42 project started in 2024 (See: )
 <img width="1024" height="768" alt="render2" src="https://github.com/user-attachments/assets/b763b82e-cf47-4a5e-977b-e0e383503a87" />
 
 ### Keyboard Layouts
-**Traditional**
+**Traditional**  
 <img width="711" height="958" alt="image" src="https://github.com/user-attachments/assets/57184e8b-0f5c-4810-9862-7d8a7938b5b2" />
-**Optimized**
+**Optimized**  
 <img width="710" height="946" alt="image" src="https://github.com/user-attachments/assets/eda065ca-8292-4632-a2e7-0809d5c6123b" />
