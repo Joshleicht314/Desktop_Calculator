@@ -22,10 +22,10 @@ This is a follow up to the RP42 project started in 2024 (See: )
 
 
 ## Timeline 
-10/31/2026 - Initial concepts researched including overall dimensions, microprocessor, and screen selected
-11/31/2026 - PCB design is reviewed and purchased 
-12/31/2026 - Initial software testing is started
-05/30/2026 - Software is complete and ready for sales
+10/31/2026 - Initial concepts researched including overall dimensions, microprocessor, and screen selected  
+11/31/2026 - PCB design is reviewed and purchased   
+12/31/2026 - Initial software testing is started  
+05/30/2026 - Software is complete and ready for sales  
 
 ## Concept Art
 <img width="1024" height="768" alt="render3" src="https://github.com/user-attachments/assets/42a3193b-c952-4537-9345-1c187edd32a1" />
